@@ -1,2 +1,17 @@
-# CombatArena
-A Unity-based 3D combat shooting game featuring player movement, shooting mechanics, enemy combat systems, animations, and interactive gameplay elements
+# Shadow Strike
+
+3D combat shooting game developed using Unity and C#.
+
+## Gameplay Demo
+[YouTube Link](https://youtu.be/tEVAFJhY3e0?si=-d54WdMXEKKLkS1q)
+
+## Features
+- Player movement
+- Shooting mechanics
+- Enemy AI
+- Combat system
+- Character animations
+- Unity Animator integration
+
+## Developer
+Chamindi Dilshika Himashi
